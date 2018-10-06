@@ -77,16 +77,16 @@ a, a:hover, a:focus {
   padding-left: 1em;
 }
 .bellcss{
-   padding-left: 3em;
+   padding-left: 2em;
    font-size: 2em;
    padding-bottom: 23px;
 }
 .notifycss{
-  padding-left: 4em;
+  padding-left: 1.5em;
     font-size: 1em;
 }
 .btncss{
-      padding-left: 6em;
+      padding-left: 4em;
     padding-right: 14px;
     
 }
